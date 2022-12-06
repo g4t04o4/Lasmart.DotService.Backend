@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pWb9s5ccxhO4PVKAbO8dWEN9DAxVckSL2RcydjL/oRQ=",
+  "Source": "Lasmart.DotService.Backend",
+  "BasePath": "_content/Lasmart.DotService.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
